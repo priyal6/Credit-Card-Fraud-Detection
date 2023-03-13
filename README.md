@@ -10,3 +10,13 @@
 
 
 ![This is an image](https://repository-images.githubusercontent.com/223699949/0601d980-5912-11eb-8486-3237a1e3c4cf)
+
+
+
+## Machine Learning Algorithm Used
+
+**In order to detect transactions that are fraud, here we use logistic regression as the transactions occure in binary format (0s and 1s). 0s indicate  a normal transaction whereas 1s indicate the fraud credit card detections. Logistic regression works well with binary outcomes that is fraud or not fraud. It helps companies detect the pattern of fraudulent transactions or non-fraudulent transactions.**
+
+
+
+
