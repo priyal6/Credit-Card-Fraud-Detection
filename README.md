@@ -19,4 +19,4 @@
 
 **The image attached below indicates the sigmoid function used in logistic regression for the analysis of fraudulent transaction.**
 
-![This is an image](https://www.google.com/url?sa=i&url=https%3A%2F%2Fthesai.org%2FDownloads%2FVolume11No12%2FPaper_65-Fraud_Detection_in_Credit_Cards.pdf&psig=AOvVaw0vGtV9vbXBCxa-a4jozNxj&ust=1678812189563000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCMDbmPSs2f0CFQAAAAAdAAAAABAR)
+![This is an image](https://hpe-developer-portal.s3.amazonaws.com/uploads/media/2020/11/spark-fraud-5-1605742798937.jpg)
