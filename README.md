@@ -3,7 +3,10 @@
 **Credit card fraud detection is the process of identifying and preventing unauthorized or fraudulent use of credit cards. It is a critical aspect of the financial industry, as it helps to safeguard both the cardholder and the card issuer from losses due to fraudulent activity.**
 
 
-##How credit card frauds are detected?
+## How credit card frauds are detected?
 
 
 **Most modern solutions leverage artificial intelligence (AI) and machine learning (ML) to manage data analysis, predictive modeling, decision-making, fraud alerts and remediation activity that occur when individual instances of credit card fraud are detected.**
+
+
+![This is an image](https://repository-images.githubusercontent.com/223699949/0601d980-5912-11eb-8486-3237a1e3c4cf)
